@@ -5,7 +5,7 @@ Based on the Web Dev Simplifed tutorial [How To Build A Google Docs Clone With R
 Libraries used:
 - `react` for UI, created by `create-react-app`
 - `react-router-dom` for routing
-- `quill` document editor library
+- `quill` text editor library
 - `socket.io` & `socket.io-client` for multi-user writes
 - `uuid` for unique ID generation
 - `mongoose` for storage to MongoDB
